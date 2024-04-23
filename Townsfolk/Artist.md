@@ -1,0 +1,1 @@
+Each night they are told of 1 person who could be any 3 particular living townsfolk.

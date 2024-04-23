@@ -1,0 +1,1 @@
+Each night, they may pick a person, they are no longer drunk

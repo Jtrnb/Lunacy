@@ -1,0 +1,1 @@
+Each night they may pick a player that player is no longer poisoned

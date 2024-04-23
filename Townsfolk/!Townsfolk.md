@@ -1,9 +1,9 @@
--  [[Agent]]: At the start of the game they know the present roles, but not who has them
--  [[Astrologist]]: If they are Executed they are told of three people that could be the Omen.
--  [[Amnesiac]]: If they get Executed, somebody else dies
--  [[Apothecary]]: Each night, they may pick a person, they are no longer drunk
--  [[Artist]]: each night they are told of 1 person who could be any 3 particular living townsfolk.
--  [[Beekeeper]]: Each night they may pick a player that player is no longer poisoned
+-  **[[Agent]]**: At the start of the game they know the present roles, but not who has them
+-  **[[Astrologist]]**: If they are Executed they are told of three people that could be the Omen.
+-  **[[Amnesiac]]**: If they get Executed, somebody else dies
+-  **[[Apothecary]]**: Each night, they may pick a person, they are no longer drunk
+-  **[[Artist]]**: Each night they are told of 1 person who could be any 3 particular living townsfolk.
+-  **[[Beekeeper]]**: Each night they may pick a player that player is no longer poisoned
 -  [[Bishop]]: If they admit they are the Bishop their vote counts as half the amount of players alive. However if the Bishop dies after exclaiming they are the Bishop all non-evil players become injured
 -  [[Brewer]]: They cannot be drunk, once per game they can learn the number of drunk or evil players
 -  [[Baker]]: They know if Evil is next to them
