@@ -1,0 +1,1 @@
+If they are Executed they are told of three people that could be the Omen.

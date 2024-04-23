@@ -1,0 +1,56 @@
+-  [[Agent]]: At the start of the game they know the present roles, but not who has them
+-  [[Astrologist]]: If they are Executed they are told of three people that could be the Omen.
+-  [[Amnesiac]]: If they get Executed, somebody else dies
+-  [[Apothecary]]: Each night, they may pick a person, they are no longer drunk
+-  [[Artist]]: each night they are told of 1 person who could be any 3 particular living townsfolk.
+-  [[Beekeeper]]: Each night they may pick a player that player is no longer poisoned
+-  [[Bishop]]: If they admit they are the Bishop their vote counts as half the amount of players alive. However if the Bishop dies after exclaiming they are the Bishop all non-evil players become injured
+-  [[Brewer]]: They cannot be drunk, once per game they can learn the number of drunk or evil players
+-  [[Baker]]: They know if Evil is next to them
+-  [[Blacksmith]]: Each night they learn the status of players that have moved
+-  [[Builder]]: Every 2 nights they may relocate a player, everyone slides over rather than swapping
+-  [[Barber]]: Each night they may choose 2 players. They learn if those players have the same Status
+-  [[Bartender]]: They begin the game knowing that 1 of 2 players is evil
+-  [[Butcher]]: Each night you learn if a Good player has become evil but not which one
+-  [[Crier]]: you know if a minion nominated the day before
+-  [[Cartographer]]: They know the distance from them 1 evil player is.
+-  [[Clockmaker]]: Each night, they may pick a person they are injured for 1 turn
+-  [[Confidante]]: They may choose to nominate a player anonymously the night before
+-  [[Doctor]]: Each night they may pick a person, they cannot die tonight
+-  [[Farmer]]: They start the game knowing if Evil is two seats away
+-  Fisherman: Each night you get a piece of advice from the GM
+-  [[Flower Girl]]: Each night they are told if the Omen voted during an execution
+-  [[Germaphobe]]: each night they learn the distance to the nearest poisoned or drunk player from them. 
+-  [[Groundskeeper]]: If you die your role is revealed
+-  [General]: If someone gets executed they can choose to die instead.
+-  [[Grandmother]]: If the people adjacent to them are Good they cannot die.
+-  [[Grandfather]]: If they die everyone is immune to being drunk
+-  [[Gardener]]: Each night they learn the amount of Good players adjacent to them
+-  [[Glass Maker]]: They begin the game knowing that one of 2 players is a particular Minion
+-  [[Hunter]]: If they get killed by the Omen they choose someone to injure
+-  [[High Roller]]: they may pick a player once per game if that player is: Good - you learn their Role, Bad - you Die. 
+-  [[Imitator]]: Each night they gain and may use a random ability of another townsfolk
+-  [[Inspector]]: Picks a person, you find out if there is Evil adjacent to them
+-  [[Impressionist]]: pick a player and get the information they received that night
+-  [[Jester]]: They don’t die the first time
+-  [[Judge]]: They may nominate twice per day
+-  [[Librarian]]: They know if an evil person died 
+-  [[Loon]]: Each night, they may pick a person, you find out if they are drunk
+-  [[Maid]]: They learn the role of the first person to die
+-  [[Mayor]]: If they admit to being the mayor their vote is worth 3
+-  [[Musician]]: each night they may pick a player, that player is immune to the effects of being drunk for that night
+-  [[Monk]]: Each night they learn if the players adjacent to them have woken up during the night
+-  [[Magician]]: Each night they may choose a player, that player receives twice as much information that night
+-  [[Milkman]]: Each night they learn the amount of Missing players
+-  [[Priest]]: Bring one person back to life
+-  [[Psychic]]: One per game pick a dead Good player, they may use their ability
+-  [[Ranger]]: Once per game they can pick a person. If that person is a Minion they die
+-  [[Ruffian]]: adjacent players cannot be injured
+-  [[Soldier]]: They cannot be killed by the Omen
+-  [[Seer]]: Each night, they may pick a person and learn their status
+-  [[Savior]]: They may only nominate once per game. If the nominee is an Evil Player all Good players votes are worth 2
+-  [[Undertaker]]: They know the status of the dead
+-  [[Vigilante]]: if the number of living good players including you is less than or equal to the bad players and no execution takes place that day you win the game.
+-  [[Warden]]: if they get killed by the Omen, they pick a player and their role is revealed to them.
+-  [[Witcher]]: if an Evil Player is executed they learn the distance from the furthest evil player.
+

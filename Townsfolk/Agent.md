@@ -1,0 +1,1 @@
+At the start of the game they know the present roles, but not who has them
